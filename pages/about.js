@@ -27,7 +27,7 @@ export default function Home({ designers }) {
   return (
     <div className="container">
       <Head>
-        <title>Brazilians Who Design | About</title>
+        <title>the cyber artnet| wtf</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
@@ -38,7 +38,7 @@ export default function Home({ designers }) {
 
       <Title
         className="title m0 p0"
-        text="Brazilians*who&nbsp;design&nbsp;is&nbsp;a"
+        text="the*cyber&nbsp;art&nbsp;net&nbsp;is"
         noAnimation
       />
 
@@ -49,51 +49,22 @@ export default function Home({ designers }) {
         exit="hidden"
       >
         <p className="f1 extend">
-          <motion.span variants={item}>place to showcase</motion.span>{" "}
-          <motion.span variants={item}>the work of talented</motion.span>{" "}
-          <motion.span variants={item}>Brazilian designers to</motion.span>{" "}
-          <motion.span variants={item}>the world. The goal</motion.span>{" "}
-          <motion.span variants={item}>is to inspire new</motion.span>{" "}
-          <motion.span variants={item}>designers to diversify</motion.span>{" "}
-          <motion.span variants={item}>
-            their references, experienced designers
-          </motion.span>{" "}
-          <motion.span variants={item}>
-            to diversity their network, and companies to diversify their teams.
-          </motion.span>
+          <motion.span variants={item}>where web artisans get recognition.</motion.span>{" "}
+         
         </p>
       </motion.div>
 
       <div className="moreabout">
         <div className="col-left">
-          <h3>How can I nominate someone?</h3>
+          <h2>How do I nominate someone?</h2>
           <p>
-            If you know a Brazilian designer whose work or voice is valuable to
-            the design industry, please{" "}
-            <Link href="/nominate">
-              <a className="link">fill out this form</a>
-            </Link>{" "}
-            with their information and a few words about why you're nominating
-            them. You can choose to link to their portfolio, to their Linkedin,
-            or to other social profiles — any link that you feel best represents
-            how that person is making a difference in the industry. We decided
-            not to collect or display the designer’s photo because we wanted the
-            repository to be less about what someone looks like and more about
-            how they’re making an impact in the industry.
+            Fill out <a className="nidLink" href="#">this form</a> with a user handle of an artist you're inspired by. 
+            Say something about why you like them. Link their work.
           </p>
 
-          <h3>Why are featuring artists as well?</h3>
+          <h2>How did you come up with this idea?</h2>
           <p>
-            We wanted to showcase not only contemporary Brazilian design, but
-            also leverage all the visibility that this project is getting to
-            celebrate the history of design in our country. Every time you
-            reload the website there’s a new featured Brazilian designer you can
-            learn more about.
-          </p>
-
-          <h3>How did you come up with this idea?</h3>
-          <p>
-            We didn’t. This project is inspired by our fantastic sibling sites:
+            Someone else did - people are amazing. Check it out.
           </p>
           <ul>
             <li>

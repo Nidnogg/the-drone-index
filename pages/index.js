@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import Link from "next/link";
 import Nav from "../components/Nav.js";
 import Filter from "../components/Filter.js";
 import Title from "../components/Title.js";
@@ -90,7 +91,7 @@ export default function Home({ designers, filters }) {
       }}
     >
       <Head>
-        <title>Brazilians Who Design</title>
+        <title>the cyber artnet</title>
         <link id="favicon" rel="alternate icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
@@ -146,11 +147,14 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
     <div className={className} onClick={onClick}>
       <Nav />
 
-      <Title className="title m0 p0" text="Brazilians*who&nbsp;design" />
-      {/* <h1 className="title m0 p0">
-        Brazilians <br />
-        who design
-      </h1> */}
+      <Title className="title m0 p0" text="cyber&nbsp;artnet" />
+      <h2 className="title shiftUp m0 p0">
+        A list of web artisans who make the web cool again, compiled by 
+        <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnogg.</a>
+        <br />
+        Made possible by the power of Open Source software.
+
+      </h2> 
 
       <motion.div
         initial={{ opacity: 0 }}
@@ -183,6 +187,21 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         </table>
       </motion.div>
       <style jsx>{`
+
+        .shiftUp {
+          position: relative;
+          bottom: 120px;
+          left: 20px;
+          
+        }
+
+        .nidLink {
+
+        }
+
+        a {
+          text-decoration: none;
+        }
         .tableContent {
           padding-top: 18vh;
         }
