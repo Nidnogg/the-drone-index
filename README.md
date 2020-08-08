@@ -1,12 +1,14 @@
-# Brazilians Who Design
+# the cyber artnet
 
-![](https://www.dropbox.com/s/x5udk39ad57ayp5/brazilianswhodesignthumb.png?raw=1)
+![](https://www.dropbox.com/s/rxfxdhk2epmuqab/glassesuniverse2.png?raw=1)
 
-The website is built using Google Spreedsheet, [Next.js](https://nextjs.org/) and deployed at [Vercel](https://vercel.com/).
+### Where web artisans get recognition.
+
+Built with Google Spreedsheet, [Next.js](https://nextjs.org/) and deployed at [Vercel](https://vercel.com/).
 
 ## Forking this project
 
-We encourage you to create your directory featured a list of any professionals you think is relevant. The code is open source, and these instructions will help you running on your local machine to get started.
+This is open source, so if you find this list incomplete or insufficient, do fork this away. [Zeh Fernandes](https://zehfernandes.com/) has been very kind to include worthy instructions to replicate his cool piece of software.
 
 ### Link your spreedsheet
 
