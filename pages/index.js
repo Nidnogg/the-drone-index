@@ -13,7 +13,7 @@ export async function getStaticProps() {
   const origin =
     process.env.NODE_ENV !== "production"
       ? "http://localhost:3000"
-      : "https://brazilianswho.design/";
+      : "https://the-cyber-artnet.vercel.app";
 
   const res = await fetch(`${origin}/api/designers`);
   const designers = await res.json();
@@ -161,6 +161,8 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnogg.</a>
         <br />
         Made possible by the power of Open Source software.
+        <br />
+        Artist of the day: <a href="https://nidnogg.github.io/cylo-drone">Cylo de Toledo</a>. Happy Birthday, dad!
 
       </h2> 
 
