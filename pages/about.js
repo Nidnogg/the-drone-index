@@ -127,20 +127,20 @@ export default function Home({ designers }) {
 
           <h3>How did you build this?</h3>
           <p>
-            the cyber art net was absolutely built on top of
+            the cyber art net was absolutely built on top of <br />
             <a className="nidLink" href="https://brazilianswho.design/">
-               brazilians who design
+               brazilians who design,
             </a>
-            godly made available on{" "}
+            <br />godly made available on <br />
             <a className="nidLink" href="https://github.com/zehfernandes/brazilianswhodesign">
               Github
-            </a>
-            after building
+            </a> <br />
+              after building
             <a
               className="nidLink"
               href="https://github.com/julesforrest/womenwhodesign"
             >
-              Women Who Design
+            <br />Women Who Design.<br />
             </a>
            Huge shout-out to Zeh Fernandes, the <bold>giant</bold> whose shoulders this project rests on.
           </p>
@@ -154,7 +154,7 @@ export default function Home({ designers }) {
             </li>
             <li>
               <a className="link" href="https://twitter.com/zehf">
-                Zeh Fernandes (really cool guy)
+                Zeh Fernandes (and all the people who helped this cool guy!)
               </a>
             </li>
           </ul>
