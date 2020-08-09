@@ -56,6 +56,12 @@ export default function Home({ designers }) {
 
       <div className="moreabout">
         <div className="col-left">
+          <h3>WTF is a web artisan?</h3>
+          <p>
+            From Laravel's <a className="nidLink" href="https://laravel.com/">page</a> a web artisan is any content creator on the internet
+            who inspires someone. In this case the people on the list have all inspired me greatly. They rock and roll!
+          </p>
+
           <h3>How do I nominate someone?</h3>
           <p>
             Fill out <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">this form</a> with a user handle of an artist you're inspired by. 
