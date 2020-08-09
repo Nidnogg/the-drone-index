@@ -58,7 +58,7 @@ export default function Home({ designers }) {
         <div className="col-left">
           <h3>WTF is a web artisan?</h3>
           <p>
-            From Laravel's <a className="nidLink" href="https://laravel.com/">page</a> a web artisan is any content creator on the internet
+            From Laravel's <a className="nidLink" href="https://laravel.com/">page</a> and from my <a href="https://ko-fi.com/post/WTF-is-a-web-artisan-celebrating-fathers-day-O4O1217KO"> my blog </a> a web artisan is any content creator on the internet
             who inspires someone. In this case the people on the list have all inspired me greatly. They rock and roll!
           </p>
 
