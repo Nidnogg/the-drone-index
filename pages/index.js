@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Nav from "../components/Nav.js";
 import Filter from "../components/Filter.js";
 import Title from "../components/Title.js";
+//import Logo from "../components/Logo.js";
 import MetaTags from "../components/Metatags.js";
 import Analytics from "../components/Analytics.js";
 import FilterSVG from "../components/Icons/FilterSVG.js";
@@ -146,7 +147,15 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
     <div className={className} onClick={onClick}>
       <Nav />
 
+
+      {/* 
       <Title className="title m0 p0" text="cyber&nbsp;artnet" />
+      */}
+
+      <div>
+        <img className="logoImage" src="/logo.png" alt="the cyber artnet"></img>
+      </div>
+      
       <h2 className="title shiftUp m0 p0">
         A list of web artisans who make the web cool again, compiled by 
         <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnogg.</a>
@@ -192,6 +201,12 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
           bottom: 120px;
           left: 20px;
           
+        }
+
+        .logoImage {
+          position: relative;
+          left: 25%;
+          justify-content: center;
         }
 
         .nidLink {

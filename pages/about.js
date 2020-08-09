@@ -27,7 +27,7 @@ export default function Home({ designers }) {
   return (
     <div className="container">
       <Head>
-        <title>the cyber artnet| wtf</title>
+        <title>the cyber artnet | wtf</title>
         <link rel="icon" href="/favicon.ico" />
         <MetaTags />
       </Head>
@@ -56,15 +56,15 @@ export default function Home({ designers }) {
 
       <div className="moreabout">
         <div className="col-left">
-          <h2>How do I nominate someone?</h2>
+          <h3>How do I nominate someone?</h3>
           <p>
-            Fill out <a className="nidLink" href="#">this form</a> with a user handle of an artist you're inspired by. 
+            Fill out <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">this form</a> with a user handle of an artist you're inspired by. 
             Say something about why you like them. Link their work.
           </p>
 
-          <h2>How did you come up with this idea?</h2>
+          <h3>How did you come up with this idea?</h3>
           <p>
-            Someone else did - people are amazing. Check it out.
+            Someone else did - people are amazing. Check it out:
           </p>
           <ul>
             <li>
@@ -127,22 +127,22 @@ export default function Home({ designers }) {
 
           <h3>How did you build this?</h3>
           <p>
-            the cyber art net was built on top of {" "}
-            <a className="link" href="https://brazilianswho.design/">
-              brazilians who design.
-            </a>{" "}
-            kindly made available on{" "}
-            <a className="link" href="https://github.com/zehfernandes/brazilianswhodesign">
+            the cyber art net was absolutely built on top of
+            <a className="nidLink" href="https://brazilianswho.design/">
+               brazilians who design
+            </a>
+            godly made available on{" "}
+            <a className="nidLink" href="https://github.com/zehfernandes/brazilianswhodesign">
               Github
-            </a>{" "}
-            after building{" "}
+            </a>
+            after building
             <a
-              className="link"
+              className="nidLink"
               href="https://github.com/julesforrest/womenwhodesign"
             >
               Women Who Design
             </a>
-           Huge shout-out to Zeh Fernandes, the giant whose shoulders this project rests on.
+           Huge shout-out to Zeh Fernandes, the <bold>giant</bold> whose shoulders this project rests on.
           </p>
 
           <h3>Who did this?</h3>
@@ -162,16 +162,11 @@ export default function Home({ designers }) {
         <div className="col-right">
           <h3>How can I remove my name?</h3>
           <p>
-            If you’ve been added to the directory and would like to opt-out or
-            make an edit to your profile, please send us a message at
-            hello@uxdesign.cc.
+            Beep me at <a href="https://twitter.com/nidnogg_">Twitter</a> or e-mail me @ <a href="mailto: the.nidnogg@gmail.com">the.nidnogg@gmail.com</a>
           </p>
-          <h3>Why is my nomination taking so long to show?</h3>
+          <h3>Why poop brown?</h3>
           <p>
-            We update this website once a week to include new names. To ensure a
-            healthy gender balance on this website, some nominations might take
-            longer to appear. In the meantime, try nominating a designer who
-            identifies as a woman or non-binary.
+            Because software is poop and I like it. Deal with it.
           </p>
         </div>
 

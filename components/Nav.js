@@ -9,9 +9,7 @@ export default function Nav(props) {
         </Link>
       </li>
       <li>
-        <Link href="/nominate">
-          <a>Nominate</a>
-        </Link>
+        <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">Nominate</a>
       </li>
 
       <style jsx>{`
@@ -27,13 +25,19 @@ export default function Nav(props) {
         }
 
         ul li a {
-          color: #fff;
+          --base-color: #301f09;
+          --base-color-s1: #f5ad58;
+          --base-color-s2: #fad6ab;
+          --base-color-s3: #634F09;
+          --base-color-s4: #3D3C35;
+          color: #f5ad58;
+          font-size: 3rem;
           text-decoration: none;
           transition: color 150ms ease;
         }
 
         ul li a:hover {
-          color: #757575;
+          color: #634F09;
         }
       `}</style>
     </ul>
