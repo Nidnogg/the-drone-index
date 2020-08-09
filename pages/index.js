@@ -162,7 +162,7 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <br />
         Made possible by the power of Open Source software.
         <br />
-        Artist of the day: <a href="https://nidnogg.github.io/cylo-drone">Cylo de Toledo</a>. Happy Birthday, dad!
+        Artist of the day: <a href="https://nidnogg.github.io/cylo-drone">Cylo de Toledo</a>. Happy father's day, dad!
 
       </h2> 
 
