@@ -4,23 +4,23 @@ export default function MetaTags() {
       <meta name="viewport" content="width=device-width,initial-scale=1" />
 
       {/* <!-- Primary Meta Tags --> */}
-      <meta name="title" content="Brazilians Who Design" />
+      <meta name="title" content="the cyber artnet" />
       <meta
         name="description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="making the web cool again, one web artisan at a time"
       />
 
       {/* <!-- Open Graph / Facebook --/> */}
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="http://brazilianswho.design" />
-      <meta property="og:title" content="Brazilians Who Design" />
+      <meta property="og:url" content="https://the-cyber-artnet.vercel.app/img/preview.png" />
+      <meta property="og:title" content="the cyber artnet" />
       <meta
         property="og:description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="making the web cool again, one web artisan at a time"
       />
       <meta
         property="og:image"
-        content="http://brazilianswho.design/img/preview.png"
+        content="https://the-cyber-artnet.vercel.app/img/preview.png"
       />
 
       {/* <!-- Twitter --/> */}
@@ -29,11 +29,11 @@ export default function MetaTags() {
       <meta property="twitter:title" content="Brazilians Who Design" />
       <meta
         property="twitter:description"
-        content="A repository to celebrate the work of talented Brazilian designers and showcase it to the world."
+        content="making the web cool again, one web artisan at a time"
       />
       <meta
         property="twitter:image"
-        content="http://brazilianswho.design/img/preview.png"
+        content="https://the-cyber-artnet.vercel.app/img/preview.png"
       />
     </>
   );
