@@ -1,7 +1,6 @@
 import Head from "next/head";
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Link from "next/link";
 import Nav from "../components/Nav.js";
 import Filter from "../components/Filter.js";
 import Title from "../components/Title.js";

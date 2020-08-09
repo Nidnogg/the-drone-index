@@ -1,3 +1,12 @@
+:root {
+  /* palette */
+  --base-color: #301f09;
+  --base-color-s1: ##f5ad58;
+  --base-color-s2: ##fad6ab;
+  --base-color-s3: #7D7B6D;
+  --base-color-s4: #3D3C35;
+}
+
 html {
   box-sizing: border-box;
 }
@@ -9,8 +18,8 @@ html {
 
 body {
   font-family: "Helvetica Now Display", "Helvetica Neue", "Helvetica";
-  background: #000;
-  color: #fff;
+  background: var(--base-color);
+  color: var(--base-color-s1);
   font-weight: 500;
   margin: 0;
   padding: 0;

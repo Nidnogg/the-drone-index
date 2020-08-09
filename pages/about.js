@@ -118,16 +118,21 @@ export default function Home({ designers }) {
                 Asian & Pacific Islanders Who Design
               </a>
             </li>
+            <li>
+              <a className="link" href="https://brazilianswho.design/">
+                Brazilians Who Design
+              </a>
+            </li>
           </ul>
 
           <h3>How did you build this?</h3>
           <p>
-            Brazilians Who Design was built on top of the tech stack that{" "}
-            <a className="link" href="https://twitter.com/julesforrest">
-              Jules Forrest
+            the cyber art net was built on top of {" "}
+            <a className="link" href="https://brazilianswho.design/">
+              brazilians who design.
             </a>{" "}
             kindly made available on{" "}
-            <a className="link" href="">
+            <a className="link" href="https://github.com/zehfernandes/brazilianswhodesign">
               Github
             </a>{" "}
             after building{" "}
@@ -137,26 +142,19 @@ export default function Home({ designers }) {
             >
               Women Who Design
             </a>
-            . Thanks to Caio Braga, Rafael Frota, Karina Sirqueira, Al Lucca,
-            Bruno Oyama, Fabio Sasso, Daniel Furtado, Rodrigo Muniz, Lucas
-            Falcão, for the help of gathering the initial list of designers.
+           Huge shout-out to Zeh Fernandes, the giant whose shoulders this project rests on.
           </p>
 
-          <h3>Who’s behind this?</h3>
+          <h3>Who did this?</h3>
           <ul>
             <li>
+              <a className="link" href="https://twitter.com/nidnogg_">
+                Henrique Vermelho AKA nidnogg
+              </a>
+            </li>
+            <li>
               <a className="link" href="https://twitter.com/zehf">
-                Zeh Fernandes
-              </a>
-            </li>
-            <li>
-              <a className="link" href="http://twitter.com/fabriciot">
-                Fabricio Teixeira
-              </a>
-            </li>
-            <li>
-              <a className="link" href="http://uxdesign.cc/">
-                UX Collective
+                Zeh Fernandes (really cool guy)
               </a>
             </li>
           </ul>
