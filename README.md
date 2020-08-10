@@ -2,21 +2,16 @@
 
 ![](https://www.dropbox.com/s/rxfxdhk2epmuqab/glassesuniverse2.png?raw=1)
 
+![live at the cyberartnet](https://the-cyber-artnet.vercel.app/)
+
 ### Where web artisans get recognition.
 
 Built with Google Spreedsheet, [Next.js](https://nextjs.org/) and deployed at [Vercel](https://vercel.com/).
 
-## Forking this project
+## Forking this project and contributing:
 
-This is open source, so if you find this list incomplete or insufficient, do fork this away. [Zeh Fernandes](https://zehfernandes.com/) has been very kind to include worthy instructions to replicate his cool piece of software.
+This is open source, so if you hate it, feel free to contribute to it. [Zeh Fernandes](https://zehfernandes.com/) has been very kind to include worthy instructions to replicate his cool piece of software. The back-end is a single google sheet file. Contact [the.nidnogg@gmail.com](the.nidnogg@gmail.com) if you want to leave the list.
 
-### Link your spreedsheet
-
-1. Duplicate [this spreedhsheet template](https://docs.google.com/spreadsheets/d/12LLA-NoHin0zQfmpEblgMjd260bmriLMowBAH1QDOhI/edit)
-2. Go to File > Publish to the Web > Publish
-3. Copy the id between /spreadsheets/ and /edit in the url: 
-	> [https://docs.google.com/spreadsheets/d/__12LLA-NoHin0zQfmpEblgMjd260bmriLMowBAH1QDOhI__/edit](https://docs.google.com/spreadsheets/d/12LLA-NoHin0zQfmpEblgMjd260bmriLMowBAH1QDOhI/edit)
-4. Paste the ID in the file [`pages/api/designers.js`](https://github.com/zehfernandes/brazilianswhodesign/blob/main/pages/api/designers.js)
 
 ### Install the dependencies
 
