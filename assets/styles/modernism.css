@@ -43,7 +43,12 @@ a {
 /* nidnogg
  ----------------------------- */
 .nidLink {
-  color: var(--color);
+  color: var(--base-color-s2);
+  transition: all 0.555ms;
+}
+
+.nidLink:hover {
+  color: var(--base-color-s3);
 }
 /* Type 
  ----------------------------- */

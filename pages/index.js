@@ -163,7 +163,7 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         Made possible by the power of Open Source software. Cheers from #SiliconRio de Janeiro!
         <br />
         <h3> Artist of the day: <a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a> <br />
-        The biggest funemployment network ever. You suck. Long live the cyber artnet!</h3>
+        The biggest funemployment network ever. You rule the kung ko-fi strets. Long live the cyber artnet!</h3>
       </h2> 
 
       <motion.div
