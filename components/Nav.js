@@ -18,7 +18,7 @@ export default function Nav(props) {
       </li>
 
       <li>
-        <a className="nidLink" href="https://codesandbox.io/s/clever-moon-p3wjq?file=/src/App.js">contribute</a>
+        <a className="nidLink" href="https://codesandbox.io/s/clever-moon-p3wjq?file=/src/App.js">help</a>
       </li>
 
 
