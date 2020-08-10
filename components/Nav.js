@@ -17,6 +17,10 @@ export default function Nav(props) {
         <a className="nidLink" href="https://codesandbox.io/s/nostalgic-silence-hi3rc?file=/src/styles.css">quit</a>
       </li>
 
+      <li>
+        <a className="nidLink" href="https://codesandbox.io/s/clever-moon-p3wjq?file=/src/App.js">contribute</a>
+      </li>
+
 
       <style jsx>{`
         ul {
