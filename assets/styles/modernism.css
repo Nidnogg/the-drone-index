@@ -39,6 +39,12 @@ a {
   text-decoration: none;
 }
 
+
+/* nidnogg
+ ----------------------------- */
+.nidLink {
+  color: var(--color);
+}
 /* Type 
  ----------------------------- */
 
@@ -246,4 +252,5 @@ a.link:after {
   :root {
     font-size: 18px;
   }
-}
+}`
+
