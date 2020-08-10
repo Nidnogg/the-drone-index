@@ -32,8 +32,8 @@ yarn dev
 In your browser, open `localhost:3000`.
 
 
-### Deploy at vercel
+### Deploy 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https%3A%2F%2Fgithub.com%2Fzehfernandes%2Fbrazilianswhodesign)
+Submit a pull request and I'll deploy it cyber quick.
 
 
