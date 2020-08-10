@@ -56,6 +56,10 @@ export default function Home({ designers }) {
 
       <div className="moreabout">
         <div className="col-left">
+          <h3>WTF is this?</h3>
+          <p>
+            This is like linkedin but without the #bullshit. Only link cool work created by cool people. All work is welcome.
+          </p>
           <h3>WTF is a web artisan?</h3>
           <p>
             From Laravel's <a className="nidLink" href="https://laravel.com/">page</a> and from my <a href="https://ko-fi.com/post/WTF-is-a-web-artisan-celebrating-fathers-day-O4O1217KO"> my blog </a> a web artisan is any content creator on the internet
