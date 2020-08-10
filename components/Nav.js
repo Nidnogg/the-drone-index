@@ -9,7 +9,7 @@ export default function Nav(props) {
         </Link>
       </li>
       <li>
-        <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">Nominate</a>
+        <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">Join us</a>
       </li>
 
       <style jsx>{`

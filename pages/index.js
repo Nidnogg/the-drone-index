@@ -157,10 +157,10 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
       </div>
       
       <h2 className="title shiftUp m0 p0">
-        A list of web artisans who make the web cool again, compiled by 
+        A social media of web artisans who make the web cool again, compiled by 
         <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnogg.</a>
         <br />
-        Made possible by the power of Open Source software.
+        Made possible by the power of Open Source software. Cheers from #SiliconRio de Janeiro!
         <br />
         Artist of the day: <a href="https://nidnogg.github.io/cylo-drone">Cylo de Toledo</a>. Happy father's day, dad!
 
