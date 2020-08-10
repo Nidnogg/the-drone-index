@@ -5,12 +5,18 @@ export default function Nav(props) {
     <ul className="auxNav" {...props}>
       <li>
         <Link href="/about">
-          <a>About</a>
+          <a>wtf</a>
         </Link>
       </li>
+
       <li>
-        <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">Join us</a>
+        <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">join</a>
       </li>
+
+      <li>
+        <a className="nidLink" href="https://codesandbox.io/s/nostalgic-silence-hi3rc?file=/src/styles.css">quit</a>
+      </li>
+
 
       <style jsx>{`
         ul {
