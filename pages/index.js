@@ -162,8 +162,8 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <br />
         Made possible by the power of Open Source software. Cheers from #SiliconRio de Janeiro!
         <br />
-        <h3> Artist of the day: <a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a>You're officially the worst social network ever made.</h3>
-        <h3>Thanks for depressing millions of unemployed people with you stupid cyber bureaucracy. Long live the cyber artnet!</h3>
+        <h3> Artist of the day: <a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a> <br />
+        The  social funemployment network ever made. You suck! Long live the cyber artnet!</h3>
       </h2> 
 
       <motion.div
