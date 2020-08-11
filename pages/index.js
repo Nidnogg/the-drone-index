@@ -162,8 +162,11 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <br />
         Made possible by the power of Open Source software. Cheers from #SiliconRio de Janeiro!
         <br />
-        <h3> Artist of the day: <a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a> <br />
+        <h2>Artisans of the month</h2>
+        <h3><a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a> <br />
         The biggest funemployment network ever. You rule the kung ko-fi strets. Long live the cyber artnet!</h3>
+        <h3><a href="https://devpost.com/software/augmented-reality-social-media#updates">DevPost</a> <br />
+        You guys rock and roll! Long live DevPost and Augmented Reality #future!
       </h2> 
 
       <motion.div
