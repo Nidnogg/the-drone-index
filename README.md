@@ -2,7 +2,7 @@
 
 ![](https://www.dropbox.com/s/rxfxdhk2epmuqab/glassesuniverse2.png?raw=1)
 
-![live at the cyberartnet](https://the-cyber-artnet.vercel.app/)
+live at [the-cyber-artnet](https://the-cyber-artnet.vercel.app/)
 
 ### Where web artisans get recognition.
 
