@@ -167,6 +167,15 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         The biggest funemployment network ever. You rule the kung ko-fi strets. Long live the cyber artnet!</h3>
         <h3><a href="https://devpost.com/software/augmented-reality-social-media#updates">DevPost</a> <br />
         You guys rock and roll! Long live DevPost and Augmented Reality #future!
+        <h3><a href="https://the-cyber-artnet.vercel.app/">the cyber artnet!</a> <br />
+        Just celebrating art + computer science. :)
+        <h3><a href="https://nidnogg.github.io/cylo-drone/">cyloDrone</a> <br />
+        One of the my coolest <a href="https://www.patreon.com/nidnogg">patreons</a>.
+        <h3><a href=" http://www.marcoalemar.com">marcoAlemar</a> <br />
+        The first cyber artist! Taught me a lot. Thanks buddy.</a>.
+       /</h3>
+
+        
       </h2> 
 
       <motion.div
