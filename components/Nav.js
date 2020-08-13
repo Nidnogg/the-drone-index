@@ -5,24 +5,63 @@ export default function Nav(props) {
     <ul className="auxNav" {...props}>
       <li>
         <Link href="/about">
-          <a>wtf</a>
+          <a className="wtf">wtf</a>
         </Link>
       </li>
 
       <li>
-        <a className="nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">join</a>
+        <a className="join nidLink" href="https://thenidnogg.typeform.com/to/VXVWgd2m">join</a>
       </li>
 
       <li>
-        <a className="nidLink" href="https://codesandbox.io/s/nostalgic-silence-hi3rc?file=/src/styles.css">quit</a>
+        <a className="quit nidLink" href="https://codesandbox.io/s/nostalgic-silence-hi3rc?file=/src/styles.css">quit</a>
       </li>
 
       <li>
-        <a className="nidLink" href="https://codesandbox.io/s/clever-moon-p3wjq?file=/src/App.js">help</a>
+        <a className="help nidLink" href="https://codesandbox.io/s/clever-moon-p3wjq?file=/src/App.js">help</a>
       </li>
 
 
       <style jsx>{`
+        .wtf:after {
+          content:"click me";
+          position: absolute;
+          font-size: 0.5em;
+          color: #746552;
+          top: 50px;
+          left: 0;
+
+        }
+
+        .join:after {
+          content:"us";
+          position: absolute;
+          font-size: 0.5em;
+          color: #746552;
+          top: 50px;
+          right: 327px;
+        }
+
+        .quit:after {
+          content:"now";
+          position: absolute;
+          font-size: 0.5em;
+          color: #746552;
+          top: 50px;
+          right: 190px;
+        }
+
+        .help:after {
+          content:"us stay alive";
+          position: absolute;
+          font-size: 0.5em;
+          color: #746552;
+          top: 50px;
+          right: -8px;
+        }
+
+      
+
         ul {
           padding: 0;
           margin: 0;
