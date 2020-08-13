@@ -230,6 +230,7 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
           right: 3%;
           height: auto;
           justify-content: center;
+          z-index: -1;
         }
 
         .nidLink {
