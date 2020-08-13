@@ -226,7 +226,9 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
 
         .logoImage {
           position: relative;
-          left: 25%;
+          width: 100vw;
+          right: 3%;
+          height: auto;
           justify-content: center;
         }
 
