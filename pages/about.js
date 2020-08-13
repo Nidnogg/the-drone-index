@@ -58,7 +58,7 @@ export default function Home({ designers }) {
         <div className="col-left">
           <h3>WTF is this?</h3>
           <p>
-            This is like linkedin but without the #bullshit. Only link cool work created by cool people. All work is welcome.
+            This is like linkedin but without the #GNUcrap. Only link cool work created by cool people. All work is welcome.
           </p>
           <h3>WTF is a web artisan?</h3>
           <p>

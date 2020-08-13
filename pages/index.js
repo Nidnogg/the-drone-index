@@ -164,6 +164,9 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <br />
         <h2>Artisans of the month</h2>
 
+        <h3><a href="https://pl.cdprojektred.com/">CDPROJEKTRED</a> <br />
+        Witam CDPROJEKT RED, nazywam się Henrique Vermelho. Witamy w Cyber Artnet.</h3>
+
         <h3><a href="https://www.canada.ca/en.html">Canada</a> <br />
         We love you, Canada. &#x2665;. Please wear a cool mask. Thanks! Stay safe.</h3>
         
