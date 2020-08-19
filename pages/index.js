@@ -167,6 +167,8 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <h3><a href="https://pl.cdprojektred.com/">CDPROJEKTRED</a> <br />
         Witam CDPROJEKT RED, nazywam się Henrique Vermelho. Witamy w Cyber Artnet.</h3>
 
+        <h3><a href="https://nidnogg.github.io/sky-drone/">Rogério Skylab</a> <br />  
+        The culest cyber musician there ever is and ever will be.</h3>
 
         <h3>Welcome <a href="http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/30-ageu-cavalcanti-pacheco-junior">Ageu</a> - one of the first web artisans!</h3>
 
