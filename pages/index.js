@@ -169,13 +169,16 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
 
         <h3><a href="https://nidnogg.github.io/sky-drone/">Rogério Skylab</a> <br />  
         The culest cyber musician there ever is and ever will be.</h3>
+        
+        <h3><a href="https://nidnogg.github.io/scar-drone/">Scarface</a> <br />  
+        Better not f*** with this movie. Someone go watch it and push it to the limit! (I do not own this movie, watch out!)</h3>
 
         <h3>Welcome <a href="http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/30-ageu-cavalcanti-pacheco-junior">Ageu</a> - one of the first web artisans!</h3>
 
         <h3><a href="https://www.canada.ca/en.html">Canada</a> <br />
         We love you, Canada. &#x2665;. Please wear a cool mask. Thanks! Stay safe.</h3>
         
-        <h3><a href="betaclimbs.herokuapp.com">Betaclimbs</a> <br />
+        <h3><a href="https://betaclimbs.herokuapp.com">Betaclimbs</a> <br />
         The coolest climbing routes compiled by <a href="https://github.com/ChristopheNonato">ChristopheNonato</a></h3>
 
         <h3><a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a> <br />
