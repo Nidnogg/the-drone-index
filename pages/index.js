@@ -164,6 +164,10 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         <br />
         <h2>Artisans of the month</h2>
 
+
+        <h3><a href="https://the-swain.newgrounds.com/">The-Swain</a> <br />
+        Mastermind behind the Cyber Artnet. A true web artisan.</h3>
+
         <h3><a href="https://pl.cdprojektred.com/">CDPROJEKTRED</a> <br />
         Witam CDPROJEKT RED, nazywam się Henrique Vermelho. Witamy w Cyber Artnet.</h3>
 
