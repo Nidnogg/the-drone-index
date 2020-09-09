@@ -25,8 +25,8 @@ export default function MetaTags() {
 
       {/* <!-- Twitter --/> */}
       <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:url" content="http://brazilianswho.design" />
-      <meta property="twitter:title" content="Brazilians Who Design" />
+      <meta property="twitter:url" content="https://the-cyber-artnet.vercel.app" />
+      <meta property="twitter:title" content="the cyber artnet" />
       <meta
         property="twitter:description"
         content="making the web cool again, one web artisan at a time"
