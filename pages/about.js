@@ -133,6 +133,26 @@ export default function Home({ designers }) {
                 Brazilians Who Design
               </a>
             </li>
+            <li>
+              <a className="link" href="https://brazilianswho.design/">
+                Uruguayans Who Design
+              </a>
+            </li>
+            <li>
+              <a className="link" href="https://britswho.design/">
+                Brits Who Design
+              </a>
+            </li>
+            <li>
+              <a className="link" href="https://spaniardswho.design/">
+                Spaniards Who Design
+              </a>
+            </li>
+            <li>
+              <a className="link" href="https://portuguesewho.design/">
+                Portuguese Who Design
+              </a>
+            </li>
           </ul>
 
           <h3>How did you build this?</h3>

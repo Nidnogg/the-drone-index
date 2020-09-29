@@ -153,6 +153,10 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
       */}
 
       <div>
+        <br />
+        <br />
+        <br />
+        <br />
         <img className="logoImage" src="/logo.png" alt="the cyber artnet"></img>
       </div>
       
