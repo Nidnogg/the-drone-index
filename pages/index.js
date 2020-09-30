@@ -161,47 +161,47 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
       </div>
       
       <h2 className="title shiftUp m0 p0">
-        A social media of web artisans who make the web cool again, compiled by 
-        <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnogg.</a>
+        A non-profit organization of web artisans who make the web cool again, compiled by 
+        <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnoggs.</a>
         <br />
-        Made possible by the power of Open Source software. Cheers from #SiliconRio de Janeiro!
+        Made possible by the power of <a className="nidLink" href="https://opensource.org/">Open Source</a> software. Cheers from #SiliconRio de Janeiro!
         <br />
+        
         <h2>Artisans of the month</h2>
-
-
-        <h3><a href="https://the-swain.newgrounds.com/">The-Swain</a> <br />
+        
+        <h3><a href="https://the-swain.newgrounds.com/" className="nidLink">The-Swain</a> <br />
         Mastermind behind the Cyber Artnet. A true web artisan.</h3>
 
-        <h3><a href="https://pl.cdprojektred.com/">CDPROJEKTRED</a> <br />
+        <h3><a href="https://pl.cdprojektred.com/" className="nidLink">CDPROJEKTRED</a> <br />
         Witam CDPROJEKT RED, nazywam się Henrique Vermelho. Witamy w Cyber Artnet.</h3>
 
-        <h3><a href="https://nidnogg.github.io/sky-drone/">Rogério Skylab</a> <br />  
+        <h3><a href="https://nidnogg.github.io/sky-drone/" className="nidLink">Rogério Skylab</a> <br />  
         The culest cyber musician there ever is and ever will be.</h3>
         
-        <h3><a href="https://nidnogg.github.io/scar-drone/">Scarface</a> <br />  
+        <h3><a href="https://nidnogg.github.io/scar-drone/" className="nidLink">Scarface</a> <br />  
         Better not f*** with this movie. Someone go watch it and push it to the limit! (I do not own this movie, watch out!)</h3>
 
-        <h3>Welcome <a href="http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/30-ageu-cavalcanti-pacheco-junior">Ageu</a> - one of the first web artisans!</h3>
+        <h3>Welcome <a href="http://www.im.ufrj.br/index.php/pt/pessoal/docentes/docentes/30-ageu-cavalcanti-pacheco-junior" className="nidLink">Ageu</a> - one of the first web artisans!</h3>
 
-        <h3><a href="https://www.canada.ca/en.html">Canada</a> <br />
+        <h3><a href="https://www.canada.ca/en.html" className="nidLink">Canada</a> <br />
         We love you, Canada. &#x2665;. Please wear a cool mask. Thanks! Stay safe.</h3>
         
-        <h3><a href="https://betaclimbs.herokuapp.com">Betaclimbs</a> <br />
-        The coolest climbing routes compiled by <a href="https://github.com/ChristopheNonato">ChristopheNonato</a></h3>
+        <h3><a href="https://betaclimbs.herokuapp.com" className="nidLink">Betaclimbs</a> <br />
+        The coolest climbing routes compiled by <a className="nidLink" href="https://github.com/ChristopheNonato">ChristopheNonato</a></h3>
 
-        <h3><a href="https://www.linkedin.com/company/linkedin/">LinkedIn</a> <br />
+        <h3><a href="https://www.linkedin.com/company/linkedin/" className="nidLink">LinkedIn</a> <br />
         The biggest funemployment network ever. You rule the kung ko-fi strets. Long live the cyber artnet!</h3>
 
-        <h3><a href="https://devpost.com/software/augmented-reality-social-media#updates">DevPost</a> <br />
+        <h3><a href="https://devpost.com/software/augmented-reality-social-media#updates" className="nidLink">DevPost</a> <br />
         You guys rock and roll! Long live DevPost and Augmented Reality #future!</h3>
 
-        <h3><a href="https://the-cyber-artnet.vercel.app/">the cyber artnet!</a> <br />
+        <h3><a href="https://the-cyber-artnet.vercel.app/" className="nidLink">the cyber artnet!</a> <br />
         Just celebrating art + computer science. :)</h3>
 
-        <h3><a href="https://nidnogg.github.io/cylo-drone/">cyloDrone</a> <br />
-        One of the my coolest <a href="https://www.patreon.com/nidnogg">patreons</a>.</h3>
+        <h3><a href="https://nidnogg.github.io/cylo-drone/" className="nidLink">cyloDrone</a> <br />
+        One of the my coolest <a className="nidLink" href="https://www.patreon.com/nidnogg">patreons</a>.</h3>
 
-        <h3><a href=" http://www.marcoalemar.com">marcoAlemar</a> <br />
+        <h3><a href=" http://www.marcoalemar.com" className="nidLink">marcoAlemar</a> <br />
         The first cyber artist! Taught me a lot. Thanks buddy.</h3>
 
         

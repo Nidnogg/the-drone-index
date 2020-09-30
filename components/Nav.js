@@ -66,12 +66,12 @@ export default function Nav(props) {
 
 
         .discord:after {
-          content:"nidnoggs";
+          content:"artists";
           position: absolute;
           font-size: 0.5em;
           color: #746552;
           top: 50px;
-          right: 80px;
+          right: 120px;
         }
 
       
