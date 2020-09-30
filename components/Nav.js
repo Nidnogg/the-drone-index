@@ -21,6 +21,10 @@ export default function Nav(props) {
         <a className="help nidLink" href="https://codesandbox.io/s/clever-moon-p3wjq?file=/src/App.js">help</a>
       </li>
 
+      <li>
+        <a className="discord nidLink" href="https://discord.gg/hM6St8j">discord</a>
+      </li>
+
 
       <style jsx>{`
         .wtf:after {
@@ -39,7 +43,7 @@ export default function Nav(props) {
           font-size: 0.5em;
           color: #746552;
           top: 50px;
-          right: 327px;
+          right: 515px;
         }
 
         .quit:after {
@@ -48,16 +52,26 @@ export default function Nav(props) {
           font-size: 0.5em;
           color: #746552;
           top: 50px;
-          right: 190px;
+          right: 380px;
         }
 
         .help:after {
-          content:"us stay alive";
+          content:"donate";
           position: absolute;
           font-size: 0.5em;
           color: #746552;
           top: 50px;
-          right: -8px;
+          right: 240px;
+        }
+
+
+        .discord:after {
+          content:"nidnoggs";
+          position: absolute;
+          font-size: 0.5em;
+          color: #746552;
+          top: 50px;
+          right: 80px;
         }
 
       
