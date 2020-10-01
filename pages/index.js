@@ -161,7 +161,7 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
       </div>
       
       <h2 className="title shiftUp m0 p0">
-        A non-profit organization of web artisans who make the web cool again, compiled by 
+        A non-profit organization, recommending web artisans who make the web cool again, compiled by 
         <a href="https://nidnogg.github.io/mood-drone/" className="nidLink"> nidnoggs.</a>
         <br />
         Made possible by the power of <a className="nidLink" href="https://opensource.org/">Open Source</a> software. Cheers from #SiliconRio de Janeiro!
