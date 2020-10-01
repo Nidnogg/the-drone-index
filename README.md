@@ -37,6 +37,6 @@ In your browser, open `localhost:3000`.
 Submit a pull request and I'll deploy it cyber quick.
 
 ### List of contributors
-* [unagity](https://github.com/unangity)
+* [unangity](https://github.com/unangity)
 
 
