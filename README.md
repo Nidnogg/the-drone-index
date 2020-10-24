@@ -10,7 +10,7 @@ Built with Google Spreedsheet, [Next.js](https://nextjs.org/) and deployed at [V
 
 ## Forking this project and contributing:
 
-This is open source, so if you hate it, feel free to contribute to it. [Zeh Fernandes](https://zehfernandes.com/) has been very kind to include worthy instructions to replicate his cool piece of software. The back-end is a single google sheet file. Contact [the.nidnogg@gmail.com](the.nidnogg@gmail.com) if you want to leave the list.
+This is open source, so if you don't like it, feel free to let it be. [Zeh Fernandes](https://zehfernandes.com/) has been very kind to include worthy instructions to replicate his cool piece of software. The back-end is a single google sheet file. Contact [the.cyberart.net@gmail.com](the.cyberart.net@gmail.com) if you want to leave the list.
 
 
 ### Install the dependencies
@@ -37,6 +37,6 @@ In your browser, open `localhost:3000`.
 Submit a pull request and I'll deploy it cyber quick.
 
 ### List of contributors
-* [unagity](https://github.com/unangity)
+* [unangity](https://github.com/unangity)
 
 
