@@ -169,6 +169,9 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         
         <h2>Artisans of the month</h2>
         
+        <h3><a href="https://nidnogg.bandcamp.com/releases" className="nidLink">the diagonal mind</a> <br />
+        The first album by yours truly, nidnogg! Kicking it November 7th.</h3>
+
         <h3><a href="https://the-swain.newgrounds.com/" className="nidLink">The-Swain</a> <br />
         Mastermind behind the Cyber Artnet. A true web artisan.</h3>
 
