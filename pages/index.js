@@ -169,6 +169,9 @@ function Content({ designers, handleOpenFilter, className, onClick }) {
         
         <h2>Artisans of the month</h2>
         
+        <h3><a href="https://frames.46graus.com/" className="nidLink">art frames</a> <br />
+        Insane art portal by Luis, the first climber nidnogg!</h3>
+        
         <h3><a href="https://nidnogg.bandcamp.com/releases" className="nidLink">the diagonal mind</a> <br />
         The first album by yours truly, nidnogg! Kicking it November 7th.</h3>
 
